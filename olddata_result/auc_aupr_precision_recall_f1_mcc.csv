@@ -1,0 +1,2 @@
+auc_mean,auc_std,aupr_mean,aupr_std,precision_mean,precision_std,recall_mean,recall_std,f1_score_mean,f1_score_std,mcc_mean,mcc_std
+0.9135156,0.0000000,0.5829539,0.0000000,0.2797004,0.0000000,0.1149196,0.0000000,0.1578389,0.0000000,0.1629272,0.0000000
