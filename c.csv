@@ -1,0 +1,3 @@
+Model,Core Aggregation Mechanism,Time Complexity,Empirical Footprint
+HAN / HGT-ADR,Dense Attention (All-to-All),O(‖V‖2⋅d),Requires High-end GPU
+MPGNN-ADR (Ours),Sparse Meta-path + APPNP,O(‖E‖⋅d),~3 seconds / Epoch (CPU-only)

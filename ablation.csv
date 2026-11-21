@@ -1,0 +1,6 @@
+Model Variant,AUROC,AUPR,Precision,Recall,F1,MCC
+MPGNN-ADR (Ours),0.9647,0.8291,0.8022,0.7296,0.7600,0.7414
+w/o Auxiliary Loss,0.9621,0.8245,0.7187,0.6136,0.6558,0.6341
+w/o Global Propagation,0.9642,0.8025,0.7091,0.5526,0.6065,0.5894
+w/o Meta-Path Aggregator,0.9643,0.8069,0.7315,0.5689,0.6184,0.6026
+w/o Semantic Attention,0.9672,0.8302,0.7454,0.6053,0.6539,0.6380
